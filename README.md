@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KyleV52
+- 👋 Hi, I’m Joshua (Kyle) Veillon
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Anything
+- 🌱 I’m currently learning ... JavaScript
 - 📫 How to reach me ... Kylejkv@gmail.com
 
 <!---
